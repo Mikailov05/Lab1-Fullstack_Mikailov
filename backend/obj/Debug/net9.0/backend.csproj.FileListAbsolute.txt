@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Lab1_ISRPO_Mikailov\backend\bin\Debug\net9.0\backend.exe
+C:\Users\Admin\Documents\Lab1_ISRPO_Mikailov\backend\bin\Debug\net9.0\backend.deps.json
+C:\Users\Admin\Documents\Lab1_ISRPO_Mikailov\backend\bin\Debug\net9.0\backend.runtimeconfig.json
+C:\Users\Admin\Documents\Lab1_ISRPO_Mikailov\backend\bin\Debug\net9.0\backend.dll
+C:\Users\Admin\Documents\Lab1_ISRPO_Mikailov\backend\bin\Debug\net9.0\backend.pdb
+C:\Users\Admin\Documents\Lab1_ISRPO_Mikailov\backend\obj\Debug\net9.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Lab1_ISRPO_Mikailov\backend\obj\Debug\net9.0\backend.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Lab1_ISRPO_Mikailov\backend\obj\Debug\net9.0\backend.AssemblyInfo.cs
+C:\Users\Admin\Documents\Lab1_ISRPO_Mikailov\backend\obj\Debug\net9.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Lab1_ISRPO_Mikailov\backend\obj\Debug\net9.0\backend.sourcelink.json
+C:\Users\Admin\Documents\Lab1_ISRPO_Mikailov\backend\obj\Debug\net9.0\backend.dll
+C:\Users\Admin\Documents\Lab1_ISRPO_Mikailov\backend\obj\Debug\net9.0\refint\backend.dll
+C:\Users\Admin\Documents\Lab1_ISRPO_Mikailov\backend\obj\Debug\net9.0\backend.pdb
+C:\Users\Admin\Documents\Lab1_ISRPO_Mikailov\backend\obj\Debug\net9.0\backend.genruntimeconfig.cache
+C:\Users\Admin\Documents\Lab1_ISRPO_Mikailov\backend\obj\Debug\net9.0\ref\backend.dll
